@@ -1,6 +1,6 @@
 # Power Plan Switcher
 
-Simple Batch Script designed to make it easier to change the power plan on laptops 
+Simple Batch Script designed to make it easier to change the power plan of laptops 
 power scheme from high/power-saving and balanced with one click if necessary.
 Can be used on PC as well.
 
