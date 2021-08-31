@@ -4,7 +4,7 @@ Simple Batch Script designed to make it easier to change the power plan on lapto
 from power scheme from high/power-saving and balanced with one click if necessary.
 Can be used on PC as well.
 
-## For what
+## Purpose of This
 
 Changing the power options plan changes the power consumption of the device and 
 the heating of the components, depending on the selected scheme-plan. 
