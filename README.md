@@ -9,5 +9,5 @@ Can be used on PC as well.
 Changing the power options plan changes the power consumption of the device and 
 the heating of the components, depending on the selected scheme-plan. 
 
-If you just watching some movie, browsing web or just don't need it you can change it 
+If you just watching some movie, browsing web or just don't need it, you can change it 
 via this script. The best performance in games is on High performance.
