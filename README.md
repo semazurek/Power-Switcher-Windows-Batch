@@ -4,7 +4,7 @@ Simple Batch Script designed to make it easier to change the power plan of lapto
 power scheme from high/power-saving and balanced with one click if necessary.
 Can be used on PC as well. 
 
-Tested and works fine on Win 11.
+Tested and works fine on Win 10 & 11.
 
 ## Purpose of This
 
